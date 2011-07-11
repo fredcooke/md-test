@@ -1,6 +1,7 @@
 # Test!
 
-Back to the [README](README.md)
+Back to the [README](md-test)
+
 ### First test
 
 This is a [test](AnotherFile)
@@ -15,5 +16,5 @@ This is just another [test](YAFHD.html)
 
 ### No test
 
-This is not a [test](JAFI.md) at all.
+This is not a [test](md-test/blob/master/JAFI.md) at all.
 
